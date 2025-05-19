@@ -1,5 +1,5 @@
 # LeetCode
 
-My solutions to daily [LeetCode problems](https://leetcode.com/problemset/).
+My solutions to daily [LeetCode problems](https://leetcode.com/problemset/)
 
-Check out my [Profile](https://leetcode.com/u/jakubsmutny/).
+Check out my [Profile page](https://leetcode.com/u/jakubsmutny/)
