@@ -1,3 +1,5 @@
 # LeetCode
 
-My solutions to daily [LeetCode](https://leetcode.com/problemset/all-code-essentials/) problems
+My solutions to daily [LeetCode problems](https://leetcode.com/problemset/).
+
+Check out my [Profile](https://leetcode.com/u/jakubsmutny/).
